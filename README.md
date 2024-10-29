@@ -59,4 +59,4 @@ hasha -a md5 path/to/file > chksum_md5
 ## Contribute
 
 Unfortunately, `hasha` is not ready for community contribution now.
-You can make a feature erqurest or bug report on "Issues" page.
+You can make a feature request or bug report on "Issues" page.
